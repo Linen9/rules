@@ -1,0 +1,6 @@
+# !name = news
+# !author = 25mins
+# update: 2024-3-5
+# ver: 1.0
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
