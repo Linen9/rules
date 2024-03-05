@@ -1,6 +1,6 @@
-# name: 4Streams
-# via: 25mins
-# update: 2024-3-5
+# !name = 4Streams
+# !author = 25mins
+# !update: 2024-3-5
 DOMAIN-KEYWORD,misakaf
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,otv.icu
