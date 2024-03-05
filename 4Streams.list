@@ -1,12 +1,20 @@
-# NAME: 4Streams
-# AUTHOR: FebRay
-# UPDATED: 2023/07/11 pm
-# total line = 13
-DOMAIN-SUFFIX,fishchips.io
-DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,emby.eu.org
+# name: 4Streams
+# via: 25mins
+# update: 2024-3-5
+DOMAIN-KEYWORD,misakaf
 DOMAIN-SUFFIX,123456.al
-DOMAIN-SUFFIX,agon.cf
+DOMAIN-SUFFIX,otv.icu
+DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,4545.cf
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,zi0.icu
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,misty.ltd
+DOMAIN-SUFFIX,agon.cf
 DOMAIN-SUFFIX,embyplus.org
-DOMAIN-KEYWORD,-emby-
+DOMAIN-SUFFIX,emby.kim
+DOMAIN-SUFFIX,emby.eu.org
+DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,acemby.org
+DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,aca.best
