@@ -1,5 +1,5 @@
 # !name = direct
 # !author = 25mins
 # !update = 2024-3-5
-DOMAIN-SUFFIX,sportsteam356.com
+DOMAIN-SUFFIX,sportsteam\d{3}\.com
 DOMAIN-SUFFIX,yumixiu768.com
