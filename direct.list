@@ -3,4 +3,5 @@
 # !update = 2024-3-5
 URL-REGEX,sportsteam\d+\.com
 DOMAIN-SUFFIX,yumixiu768.com
+DOMAIN-SUFFIX,support.soundcore.com
 GEOIP,CN
