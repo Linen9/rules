@@ -1,22 +1,23 @@
 # !name = 4Streams
 # !author = 25mins
-# !update: 2024-6-11
+# !update: 2024-7-10
 DOMAIN-KEYWORD,misakaf
-DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,123456.al
-DOMAIN-SUFFIX,otv.icu
-DOMAIN-SUFFIX,ju.dog
-DOMAIN-SUFFIX,notnetflix.cos.cat
 DOMAIN-SUFFIX,4545.cf
-DOMAIN-SUFFIX,imetyou.top
-DOMAIN-SUFFIX,zi0.icu
-DOMAIN-SUFFIX,mius.uk
-DOMAIN-SUFFIX,misty.ltd
-DOMAIN-SUFFIX,agon.cf
-DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,emby.kim
-DOMAIN-SUFFIX,emby.eu.org
-DOMAIN-SUFFIX,charontv.com
-DOMAIN-SUFFIX,acemby.org
-DOMAIN-SUFFIX,zox.show
 DOMAIN-SUFFIX,aca.best
+DOMAIN-SUFFIX,acemby.org
+DOMAIN-SUFFIX,agon.cf
+DOMAIN-SUFFIX,charontv.com
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,emby.eu.org
+DOMAIN-SUFFIX,emby.kim
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,ju.dog
+DOMAIN-SUFFIX,misty.ltd
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,notnetflix.cos.cat
+DOMAIN-SUFFIX,otv.icu
+DOMAIN-SUFFIX,shenmi.link
+DOMAIN-SUFFIX,zi0.icu
+DOMAIN-SUFFIX,zox.show
