@@ -1,6 +1,6 @@
 # !name = direct
 # !author = 25mins
-# !update = 2024-3-5
+# !update = 2024-10-18
 URL-REGEX,sportsteam\d+\.com
 URL-REGEX,yzzy.play-cdn\d+\.com
 DOMAIN-SUFFIX,yumixiu768.com
