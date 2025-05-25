@@ -5,5 +5,4 @@ URL-REGEX,sportsteam\d+\.com
 URL-REGEX,yzzy.play-cdn\d+\.com
 DOMAIN-SUFFIX,yumixiu768.com
 DOMAIN-SUFFIX,support.soundcore.com
-DOMAIN-SUFFIX,spotify.com
 GEOIP,CN
