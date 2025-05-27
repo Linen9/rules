@@ -1,12 +1,13 @@
 # !name = 4Streams
 # !author = 25mins
-# !update: 2025-4-14
+# !update: 2025-5-27
 
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,4545.cf
 DOMAIN-SUFFIX,aca.best
 DOMAIN-SUFFIX,acemby.org
 DOMAIN-SUFFIX,agon.cf
+DOMAIN-SUFFIX,ald.emby.moe
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,em.lanchats.com
