@@ -1,0 +1,7 @@
+# !name = News
+# !author = 25mins
+# update: 2025-9-19
+# ver: 1.0
+DOMAIN-SUFFIX, wsj.com
+DOMAIN-SUFFIX, wsj.net
+DOMAIN-SUFFIX, ft.com
