@@ -1,5 +1,6 @@
 # !name = aldys
 # !author = 25mins
-# !update: 2025-9-18
+# !update: 2025-10-5
 
 DOMAIN-SUFFIX, ald.emby.moe
+DOMAIN-SUFFIX, cflocal.xxlb.net
