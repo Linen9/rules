@@ -1,0 +1,5 @@
+# wsj/ft
+rules:
+  - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,wsj.net
+  - DOMAIN-SUFFIX,ft.com
