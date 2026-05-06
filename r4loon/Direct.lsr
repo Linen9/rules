@@ -1,8 +1,10 @@
 # !name = Direct
 # !author = 25mins
-# !update = 2025-9-19
+# !update = 2026-5-6
 URL-REGEX, sportsteam\d+\.com
 URL-REGEX, yzzy.play-cdn\d+\.com
 DOMAIN-SUFFIX, yumixiu768.com
 DOMAIN-SUFFIX, support.soundcore.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wechat.com
 GEOIP, CN
