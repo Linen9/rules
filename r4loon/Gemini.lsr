@@ -1,18 +1,32 @@
 # !name = Google Gemini
 # !author = lodepuly
-# update: 2025-9-19
+# update: 2026-6-16
 
-DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,aida.googleapis.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
-DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+# Gemini 核心
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+# AI 开发平台
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,aiplatform.googleapis.com
+DOMAIN-SUFFIX,ml.googleapis.com
+DOMAIN-SUFFIX,colab.research.google.com
+DOMAIN-SUFFIX,notebook.google.com
+
+# Google 内部服务
+DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+# AI 产品
+DOMAIN-SUFFIX,lens.google.com
+DOMAIN-SUFFIX,assistant.google.com
+DOMAIN-SUFFIX,fit.google.com
