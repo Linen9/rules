@@ -16,16 +16,6 @@ DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve
 
-# Google Gemini
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,aiplatform.googleapis.com
-
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,imagine.meta.com
