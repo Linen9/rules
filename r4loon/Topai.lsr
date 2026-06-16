@@ -1,25 +1,60 @@
-# !name = 主流ai
-#!desc = 这些ai通常可以港区，不需要特定为美区
-# !author = lodepuly
-# update: 2025-9-19
+# !name = 主流AI
+# !desc = 这些AI通常可以港区，不需要特定为美区
+# !author = Linen9
+# update: 2026-6-16
+
+# OpenAI ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,auth0.openai.com
 
 # Anthropic Claude
-DOMAIN-SUFFIX, anthropic.com
-DOMAIN-SUFFIX, claude.ai
-DOMAIN-SUFFIX, claudeusercontent.com
-IP-CIDR, 160.79.104.0/23, no-resolve
-IP-CIDR6, 2607:6bc0::/48, no-resolve
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+IP-CIDR,160.79.104.0/23,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
+
+# Google Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,aiplatform.googleapis.com
 
 # Meta AI
-DOMAIN, imagine.meta.com
-DOMAIN-SUFFIX, meta.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,imagine.meta.com
 
 # Perplexity AI
-DOMAIN-SUFFIX, pplx.ai
-DOMAIN-SUFFIX, perplexity.ai
-DOMAIN-SUFFIX, perplexity.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
 
-# Grok AI
-DOMAIN, api.x.ai
-DOMAIN-SUFFIX, x.ai
-DOMAIN-SUFFIX, grok.com
+# xAI Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
+# Mistral AI
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,chat.mistral.ai
+
+# Cohere
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,api.cohere.com
+
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+
+# Stability AI
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,platform.stability.ai
+
+# Midjourney
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,_midjourney.com
