@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,statsig.anthropic.com
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve
 
