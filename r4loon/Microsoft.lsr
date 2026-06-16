@@ -1,0 +1,59 @@
+# !name = Microsoft
+# !author = Linen9
+# update: 2026-6-16
+
+# Microsoft 核心
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,microsoftonline.com,DIRECT
+DOMAIN-SUFFIX,msauth.net,DIRECT
+DOMAIN-SUFFIX,msftauth.net,DIRECT
+DOMAIN-SUFFIX,msftncsi.com,DIRECT
+DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
+DOMAIN-SUFFIX,msecnd.net,DIRECT
+DOMAIN-SUFFIX,msft.net,DIRECT
+
+# Office 365 / M365
+DOMAIN-SUFFIX,office.com,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+DOMAIN-SUFFIX,office.net,DIRECT
+DOMAIN-SUFFIX,officeapps.live.com,DIRECT
+DOMAIN-SUFFIX,cdn.office.net,DIRECT
+
+# SharePoint / OneDrive
+DOMAIN-SUFFIX,sharepoint.com,DIRECT
+DOMAIN-SUFFIX,sharepointonline.com,DIRECT
+DOMAIN-SUFFIX,onedrive.com,DIRECT
+DOMAIN-SUFFIX,storage.live.com,DIRECT
+
+# Outlook / 个人账号
+DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN-SUFFIX,hotmail.com,DIRECT
+DOMAIN-SUFFIX,live.com,DIRECT
+
+# Azure
+DOMAIN-SUFFIX,azure.com,DIRECT
+DOMAIN-SUFFIX,azure.net,DIRECT
+DOMAIN-SUFFIX,azureedge.net,DIRECT
+DOMAIN-SUFFIX,azurewebsites.net,DIRECT
+DOMAIN-SUFFIX,azurefd.net,DIRECT
+DOMAIN-SUFFIX,trafficmanager.net,DIRECT
+DOMAIN-SUFFIX,core.windows.net,DIRECT
+DOMAIN-SUFFIX,windows.net,DIRECT
+
+# Windows / 更新
+DOMAIN-SUFFIX,windows.com,DIRECT
+DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN-SUFFIX,update.microsoft.com,DIRECT
+
+# 其他产品
+DOMAIN-SUFFIX,onenote.com,DIRECT
+DOMAIN-SUFFIX,yammer.com,DIRECT
+DOMAIN-SUFFIX,powerbi.com,DIRECT
+DOMAIN-SUFFIX,dynamics.com,DIRECT
+DOMAIN-SUFFIX,skype.com,DIRECT
+DOMAIN-SUFFIX,teams.microsoft.com,DIRECT
+DOMAIN-SUFFIX,visualstudio.com,DIRECT
+DOMAIN-SUFFIX,bing.com,DIRECT
+DOMAIN-SUFFIX,xbox.com,DIRECT
+DOMAIN-SUFFIX,nuget.org,DIRECT
+DOMAIN-SUFFIX,aspnetcdn.com,DIRECT
