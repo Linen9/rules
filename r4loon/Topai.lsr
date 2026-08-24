@@ -50,5 +50,8 @@ DOMAIN-SUFFIX,hf.co
 # Stability AI
 DOMAIN-SUFFIX,stability.ai
 
+# OpenCode
+DOMAIN-SUFFIX,opencode.ai
+
 # Midjourney
 DOMAIN-SUFFIX,midjourney.com
